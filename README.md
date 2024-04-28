@@ -38,12 +38,9 @@ Express.js'de oluşturulan endpointler, HTTP isteklerine yanıt verir. Örneğin
 Bu uygulama, MySQL ve MongoDB'yi bir arada kullanarak blog postları, beğeniler ve yorumlar için bir RESTful API sağlar. Express.js, bu API'nin merkezinde yer alırken, MySQL ve MongoDB, ilgili veritabanı görevlerini yerine getirir. 
 
 
-![görsel 1](../1.png)
 
-![görsel 2](../2.png)
-
-![görsel 3](../3.png)
-
-![görsel 4](../4.png)
-
-![görsel 5](../5.png)
+![1](https://github.com/ferguddm/basic-social-app/assets/58135307/b3c0a06a-c369-4582-b311-b5efe10320db)
+![2](https://github.com/ferguddm/basic-social-app/assets/58135307/22846260-db61-4d10-add3-34e52c5ff223)
+![3](https://github.com/ferguddm/basic-social-app/assets/58135307/62a90f3a-feee-46b2-8ccb-0da33f12f471)
+![4](https://github.com/ferguddm/basic-social-app/assets/58135307/e3e1907e-c832-404a-b49e-68c1ce54e8a7)
+![5](https://github.com/ferguddm/basic-social-app/assets/58135307/c8c3c411-59da-4560-a2a9-18a4d3d22273)
